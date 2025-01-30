@@ -1,7 +1,9 @@
 table {
     border: 1px solid;
     background-color: rgb(23, 116, 23);
-    color: rgb(230, 188, 125); /* betűszín */
+    color: rgb(242, 239, 235); /* betűszín */
     font-family: 'Courier New';/* betűtípus */
     font-size: 30px;/* betűméret */
   }
+
+  td { background-color: limegreen;}
