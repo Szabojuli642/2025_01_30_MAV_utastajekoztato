@@ -1,18 +1,18 @@
 table {
-    border: 1px solid;
-    background-color: rgb(23, 116, 23);
-    color: rgb(242, 239, 235); /* betűszín */
-    font-family: 'Courier New';/* betűtípus */
-    font-size: 30px;/* betűméret */
-  }
+  border: 1px solid;
+  background-color: rgb(23, 116, 23);
+  color: rgb(242, 239, 235); /* betűszín */
+  font-family: 'Courier New';/* betűtípus */
+  font-size: 30px;/* betűméret */
+}
 
-  td { background-color: limegreen;}
+td { background-color: limegreen;}
 
-  #keses{
-    background-color: rgb(198, 8, 8);
-  }
+#keses{
+  background-color: rgb(198, 8, 8);
+}
 
-  .elso_oszlop{
+.elso_oszlop{
 background-color: forestgreen;
 
-  }
+}
