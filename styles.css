@@ -1,18 +1,20 @@
 table {
   border: 1px solid;
-  background-color: rgb(23, 116, 23);
-  color: rgb(242, 239, 235); /* betűszín */
+  background-color: rgb(0, 105, 0);
+  color: rgb(255, 255, 255); /* betűszín */
   font-family: 'Courier New';/* betűtípus */
   font-size: 30px;/* betűméret */
 }
 
-td { background-color: limegreen;}
+tbody tr:nth-child(even) {
+  background-color: rgb(3, 170, 0);
+}
+
+tbody tr:nth-child(odd) {
+  background-color: rgb(0, 195, 26);
+}
 
 #keses{
   background-color: rgb(198, 8, 8);
 }
 
-.elso_oszlop{
-background-color: forestgreen;
-
-}

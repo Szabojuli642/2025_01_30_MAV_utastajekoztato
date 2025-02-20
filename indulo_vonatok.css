@@ -1,8 +1,22 @@
-body{
+table{
   border:1px solid ;
-  background-color: blue;
-  color: rgb(242, 239, 235); /* betűszín */
+  /* background-color: blue; */
+  color: rgb(247, 247, 250); /* betűszín */
   font-family: 'Courier New';/* betűtípus */
   font-size: 30px;/* betűméret */
 }
-td { background-color: rgb(4, 78, 252);}
+
+th {
+  background-color: blue;
+}
+#keso_indulo_vonat{
+  background-color: rgb(255, 0, 0);
+}
+
+tbody tr:nth-child(even) {
+  background-color: rgb(0, 170, 255);
+}
+tbody tr:nth-child(odd) {
+  background-color: rgb(0, 89, 255);
+}
+
