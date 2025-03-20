@@ -35,3 +35,7 @@ table{
   font-size: 30px;/* betűméret */
 }
 ```
+
+### 🔹 Fejlesztési lehetőségek
+- ❎ valós idejű megjelenítés
+- ✅ keresési lehetőségek
