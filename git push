@@ -1,0 +1,83 @@
+[33mcommit 22d7fb97fee153db9de6ddfe64690634d95fe472[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Mar 13 11:36:00 2025 +0100
+
+    create readme file
+
+[33mcommit ba0f76601e5c93b8f8cc5ff0edbfbd3f3cff8af2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Feb 27 10:39:23 2025 +0100
+
+    Update styles.css
+
+[33mcommit ccddd41d8bacaa840d93b3664006f48614a33e2e[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Feb 27 10:25:07 2025 +0100
+
+    Update index.html
+
+[33mcommit eef642a59e92dbc1aa29c2b514d9d11517cd7fe6[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Feb 20 11:28:50 2025 +0100
+
+    add_even_and_odd
+
+[33mcommit cc350f29b3a635b924cf4fe475e59bc95c80ed4f[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Feb 13 11:40:52 2025 +0100
+
+    Update indulo_vonatok.css
+
+[33mcommit 9d17085a7932ee79e0942e6fe1dd2b2a062711d1[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Feb 13 11:40:05 2025 +0100
+
+    add_css
+
+[33mcommit fe26d448a880ef2313d0ce70ea2f5df9c2a7ab50[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Feb 13 11:28:04 2025 +0100
+
+    create_indulo_vonatok_and_fill_with_datas
+
+[33mcommit 1db8689b9371a1392a6a0cec7b7b3b5defee53f7[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Feb 13 11:15:07 2025 +0100
+
+    Create indulo_vonatok.html
+
+[33mcommit e5afd7f3686d8db6bc3699e0b362a38fe4c977c0[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Feb 6 11:41:43 2025 +0100
+
+    add_selectors
+
+[33mcommit 97cfe07650485bd9ef030c1472a9947bd4a5630a[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Jan 30 11:36:31 2025 +0100
+
+    Update styles.css
+
+[33mcommit 9e9a20711ac2b33b68facbd586e1e72843aa8b75[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Jan 30 11:32:43 2025 +0100
+
+    create css and add based table design
+
+[33mcommit 2df830e06c07b308f7ce7491002d360fa6153517[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Jan 30 11:03:16 2025 +0100
+
+    Update index.html
+
+[33mcommit 69e2f48ad227d673a6ce43e9d3dad99e12886f97[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Jan 30 10:25:45 2025 +0100
+
+    Create index.html
+
+[33mcommit 062fc8033674d5ae4cfdbd5940372aeb1e3a92e1[m
+Author: Szabojuli642 <szabo.julia@diak.szbi-pg.hu>
+Date:   Thu Jan 30 10:21:34 2025 +0100
+
+    Initial commit
