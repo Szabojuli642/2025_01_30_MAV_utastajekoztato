@@ -9,8 +9,6 @@ Ez a weboldal **HTML** és **CSS** sgítségével készült és egy táblázatot
 - 🔺 letisztult dizájn
 
 ### 🔹Használat
-- 🔺 Egyszerűen nyisd meg a https://github.com/Szabojuli642/2025_01_30_MAV_utastajekoztato.git weboldalt a böngészőben.
-
 A projekt élőben megtekinthető a https://szabojuli642.github.io/2025_01_30_MAV_utastajekoztato/ linken.
 
 ### 🔹 Alap HTML szerkezet
